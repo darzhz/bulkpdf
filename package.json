@@ -1,0 +1,16 @@
+{
+  "name": "image to pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darsh shyam Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "image-to-pdf": "^2.0.0",
+    "linebreak": "^1.1.0"
+  }
+}
